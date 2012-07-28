@@ -177,6 +177,7 @@ GEM
       activesupport (>= 2.3.2)
       cocaine (>= 0.0.2)
       mime-types
+    pg (0.12.2)
     polyamorous (0.5.0)
       activerecord (~> 3.0)
     polyglot (0.3.3)
@@ -259,6 +260,7 @@ DEPENDENCIES
   community_engine!
   jquery-rails
   multi_json (= 1.0.4)
+  pg (= 0.12.2)
   rails (= 3.2)
   sass-rails (~> 3.2.3)
   sqlite3
